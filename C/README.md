@@ -1,8 +1,8 @@
 # C语言初学者试卷
 # Some examnation papers for C beginners
 
-标注：试卷用中文写成
-note: the papers are wrote in Chinese
+标注：试卷用中文写成<br>
+note: the papers are wrote in Chinese<br>
 
 ### 目前包涵部分
 - 计算机等级考试
